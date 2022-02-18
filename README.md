@@ -1,4 +1,4 @@
-### Hi there,
+### Hey there,
 
 - 💻 I'm currently working at <a href='https://www.linkedin.com/company/origin-financialsf'>Origin</a>, a financial wellness platform: <a href='https://www.useorigin.com'>useorigin.com</a>
 - 🚀 I also created and fully developed <a href='https://www.linkedin.com/company/sondify'>Sondify</a>, a one-person startup: <a href="https://www.sondify.com.br" target="_blank">sondify.com.br</a>
