@@ -4,4 +4,4 @@
 - 🚀 I also created and fully developed <a href='https://www.linkedin.com/company/sondify'>Sondify</a>, a one-person startup: <a href="https://www.sondify.com.br" target="_blank">sondify.com.br</a>
 - 🔗 Add me on LinkedIn: <a href="https://www.linkedin.com/in/andrebolina" target="_blank">linkedin.com/in/andrebolina</a>
 
-🌎 Working remotely since 2014
+🌎 Remote first since 2014
