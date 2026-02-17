@@ -1,7 +1,8 @@
 ## Hello 🌎,
 
-*I'm André Bolina, a Senior Software Engineer and Full Stack Developer with 12+ years of experience.*
+*I'm André Bolina, a Senior Product Engineer and Full-stack Developer with 11+ years of experience.*
 
 ###### Latest release:
-- 🏢 I've been working at <a href='https://www.linkedin.com/company/origin-financialsf'>Origin</a>, a Silicon Valley-based startup for financial wellness, since Feb 2022;
-- 🧑‍💻 I've been responsible for creating and fully developing <a href='https://www.linkedin.com/company/sondify'>Sondify</a>, a one-person startup, since Aug 2014.
+- 🏗️ I'm currently building <a href='https://peerhub.dev'>PeerHub</a>, an open-source peer review platform for developers — help <a href='https://github.com/peerhub-org/peerhub'>build it</a>.
+- 🏢 I've been working at <a href='https://www.linkedin.com/company/origin-financialsf'>Origin</a>, your personal AI financial advisor, since Feb 2022;
+- 🏁 I created and fully developed <a href='https://www.linkedin.com/company/sondify'>Sondify</a>, a solo SaaS that served 460+ clients and monitored over 2,600 stores from 2014 to 2026.
